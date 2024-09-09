@@ -1,0 +1,15 @@
+#greycol {
+    color: grey;
+}
+div + div > p {
+    color: red;
+}
+h3 + p{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+h3:nth-child(1){
+    color: pink;
+}

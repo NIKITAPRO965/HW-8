@@ -1,0 +1,33 @@
+body{
+    :hover
+}
+
+li:nth-child(1){
+color: cadetblue;
+}
+
+li:nth-child(2){
+    color: darkblue;
+}
+li:nth-child(3){
+    color: chocolate;
+}
+li:nth-child(4){
+    color: lime;
+}
+li:nth-child(5){
+    color: darkorange;
+}
+li:nth-child(6){
+    color: darkorchid;
+}
+
+.easy{
+color: yellow;
+}
+.medium{
+color: orange;
+}
+.hard{
+    color: red;
+}
